@@ -1,3 +1,7 @@
 print("用户A代码")
 print("用户A代码")
 print("用户A代码")
+print("用户B代码")
+print("用户B代码")
+print("用户B代码")
+print("用户B代码")
