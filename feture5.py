@@ -8,3 +8,8 @@ print("用户A新代码")
 print("用户A新代码")
 print("用户A新代码")
 print("用户A新代码")
+
+print("用户B代码")
+print("用户B代码")
+print("用户B代码")
+print("用户B代码")
