@@ -1,0 +1,8 @@
+print("这是功能3")
+print("这是功能3")
+print("这是功能3")
+print("这是功能3")
+print("这是功能3")
+print("这是功能3")
+print("这是功能3")
+print("这是功能3")
