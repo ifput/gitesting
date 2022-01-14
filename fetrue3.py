@@ -1,12 +1,4 @@
-print("这是功能3")
-print("这是功能3")
-print("这是功能3")
-print("这是功能3")
-print("这是功能3")
-print("这是功能3")
-print("这是功能3")
-print("这是功能3")
-print("这是功能3")
+# 新的改动
 print("这是功能3")
 print("这是功能3")
 print("这是功能3")
